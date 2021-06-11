@@ -8,10 +8,7 @@ I am running youtube channel named Arjun Codes
 - 💬 Ask me about (https://www.github.com/youtube-arjun-codes/issues)
 
 
- <details>
-<summary>📊 Github Stats</summary>
 
-![Visitor Count](https://profile-counter.glitch.me/{youtube-arjun-codes}/count.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youtube-arjun-codes&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
 
@@ -19,3 +16,8 @@ I am running youtube channel named Arjun Codes
 
 [![Arjun'ts github activity graph](https://activity-graph.herokuapp.com/graph?username=youtube-arjun-codes&theme=gruvbox)](https://github.com/youtube-arjun-codes/github-readme-activity-graph)
 
+
+ <details>
+<summary>📊 Github Stats</summary>
+ 
+![Visitor Count](https://profile-counter.glitch.me/{youtube-arjun-codes}/count.svg)
