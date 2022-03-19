@@ -1,7 +1,4 @@
-### Hi there 👋 Its me Arjun Codes
-
-
-I am running youtube channel named Arjun Codes
+Welcome to Code With Arjun 
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning React,Spring Bot
